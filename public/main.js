@@ -1,6 +1,9 @@
 let playerOneChoice = ""
 let playerTwoChoice = ""
 
+//IF player one choice And player two choice are NOT empty strings
+//THEN both players have chosen
+
 //IF player one choice is rock AND player two choice is scissors
 //OR player one choice is paper AND player two choice is rock
 //OR player one choice is scissors AND player two choice is paper
