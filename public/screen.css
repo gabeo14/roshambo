@@ -15,3 +15,15 @@ h1 {
 div {
   display: flex;
 }
+
+.choice-made button {
+  display: none;
+}
+
+.player-1 .choice {
+  display: none;
+}
+
+.player-1.choice-made .choice {
+  display: block;
+}
